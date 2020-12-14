@@ -1,2 +1,0 @@
-com/example/mylibrarytorial/ExampleUnitTest.java
- com.example.mylibrarytorial.ExampleUnitTest

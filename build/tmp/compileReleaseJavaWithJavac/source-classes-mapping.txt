@@ -1,4 +1,0 @@
-com/example/mylibrarytorial/BuildConfig.java
- com.example.mylibrarytorial.BuildConfig
-com/example/mylibrarytorial/MyView.java
- com.example.mylibrarytorial.MyView
