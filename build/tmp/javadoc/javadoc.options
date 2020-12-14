@@ -1,0 +1,7 @@
+-classpath '/Users/hautran/Library/Android/sdk/platforms/android-30/android.jar:/Users/hautran/Library/Android/sdk/build-tools/30.0.2/core-lambda-stubs.jar'
+-d '/Users/hautran/Desktop/LibraryTorial/mylibrarytorial/build/docs/javadoc'
+-doctitle 'mylibrarytorial 1.0 API'
+-notimestamp 
+-quiet 
+-windowtitle 'mylibrarytorial 1.0 API'
+'/Users/hautran/Desktop/LibraryTorial/mylibrarytorial/src/main/java/com/example/mylibrarytorial/MyView.java'

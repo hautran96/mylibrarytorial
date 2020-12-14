@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/hautran/Desktop/LibraryTorial/mylibrarytorial/build/intermediates/res/merged/release/xml/standalone_badge_gravity_top_start.xml",
+        "source": "/Users/hautran/.gradle/caches/transforms-2/files-2.1/83fac023d49248dc32a1b64f58b1490d/material-1.2.1/res/xml/standalone_badge_gravity_top_start.xml"
+    },
+    {
+        "merged": "/Users/hautran/Desktop/LibraryTorial/mylibrarytorial/build/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "/Users/hautran/.gradle/caches/transforms-2/files-2.1/83fac023d49248dc32a1b64f58b1490d/material-1.2.1/res/xml/standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "/Users/hautran/Desktop/LibraryTorial/mylibrarytorial/build/intermediates/res/merged/release/xml/standalone_badge_offset.xml",
+        "source": "/Users/hautran/.gradle/caches/transforms-2/files-2.1/83fac023d49248dc32a1b64f58b1490d/material-1.2.1/res/xml/standalone_badge_offset.xml"
+    },
+    {
+        "merged": "/Users/hautran/Desktop/LibraryTorial/mylibrarytorial/build/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "/Users/hautran/.gradle/caches/transforms-2/files-2.1/83fac023d49248dc32a1b64f58b1490d/material-1.2.1/res/xml/standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "/Users/hautran/Desktop/LibraryTorial/mylibrarytorial/build/intermediates/res/merged/release/xml/standalone_badge.xml",
+        "source": "/Users/hautran/.gradle/caches/transforms-2/files-2.1/83fac023d49248dc32a1b64f58b1490d/material-1.2.1/res/xml/standalone_badge.xml"
+    }
+]
