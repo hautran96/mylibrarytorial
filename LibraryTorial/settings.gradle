@@ -1,0 +1,3 @@
+include ':mylibrarytorial'
+include ':app'
+rootProject.name = "LibraryTorial"
